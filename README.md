@@ -1,7 +1,8 @@
 
 ### Prerequisites
 
-npm i email-chips
+## npm i email-chips
+
 A basic understanding of React.js
 
 ### Examples
