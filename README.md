@@ -1,14 +1,14 @@
 
 ### Prerequisites
 
-## npm i email-tags
+## npm i email-chips
 
 A basic understanding of React.js
 
 ### Examples
 Example specific to react
 ```
-import Chips from "email-tags";
+import Chips from "email-chips";
 
  <Chips
       placeholder=""

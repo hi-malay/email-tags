@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import "./index.css"
 import Chip from '@material-ui/core/Chip';
 
-
 class Chips extends Component {
   constructor(props) {
     super(props);
